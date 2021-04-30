@@ -49,7 +49,7 @@ const Menu = [
        image: pizza,
        name:"pizza",
        category: "evening",
-       price: "80₹",
+       price: "200₹",
        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. '
    },
       {
