@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/efood/static/css/main.ae321da7.chunk.css",
+    "main.js": "/efood/static/js/main.58e08728.chunk.js",
+    "main.js.map": "/efood/static/js/main.58e08728.chunk.js.map",
+    "runtime-main.js": "/efood/static/js/runtime-main.b71ed0f3.js",
+    "runtime-main.js.map": "/efood/static/js/runtime-main.b71ed0f3.js.map",
+    "static/js/2.04f91594.chunk.js": "/efood/static/js/2.04f91594.chunk.js",
+    "static/js/2.04f91594.chunk.js.map": "/efood/static/js/2.04f91594.chunk.js.map",
+    "index.html": "/efood/index.html",
+    "static/css/main.ae321da7.chunk.css.map": "/efood/static/css/main.ae321da7.chunk.css.map",
+    "static/js/2.04f91594.chunk.js.LICENSE.txt": "/efood/static/js/2.04f91594.chunk.js.LICENSE.txt",
+    "static/media/chola.f4558eb1.jpg": "/efood/static/media/chola.f4558eb1.jpg",
+    "static/media/corn.071b64b8.jpg": "/efood/static/media/corn.071b64b8.jpg",
+    "static/media/maggi.2dfb7691.jpg": "/efood/static/media/maggi.2dfb7691.jpg",
+    "static/media/nonvej.e57a0820.jpg": "/efood/static/media/nonvej.e57a0820.jpg",
+    "static/media/pizza.3dca1ec0.jpg": "/efood/static/media/pizza.3dca1ec0.jpg",
+    "static/media/rajmarice.3c510afb.jpg": "/efood/static/media/rajmarice.3c510afb.jpg",
+    "static/media/sweets.cc65ce1e.jpg": "/efood/static/media/sweets.cc65ce1e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b71ed0f3.js",
+    "static/js/2.04f91594.chunk.js",
+    "static/css/main.ae321da7.chunk.css",
+    "static/js/main.58e08728.chunk.js"
+  ]
+}
